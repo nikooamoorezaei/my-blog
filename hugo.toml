@@ -1,4 +1,68 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nikooamoorezaei.github.io/my_blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "anatole"
+
+
+
+
+[params]
+title = "  nikoo Amoorezaei"
+author = "nikoo Amoorezaei"
+description = "I'm an architect and a developer. I'm interested in the intersection of architecture and technology."
+profilePicture = "images/profile.jpg"
+
+ [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+[[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+[[main]]
+name = "Accomplishments"
+weight = 500
+identifier = "accomplishments"
+
+[[main]]
+name = "Awards"
+weight = 510
+identifier = "awards"
+url = "/awards/"
+parent = "accomplishments"
+
+[[main]]
+name = "Certifications"
+weight = 520
+identifier = "certifications"
+url = "/certifications/"
+parent = "accomplishments"
+
+# ==========================================
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/nikoo-amoorezaei"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/nikooamoorezaei"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:nikooamoorezaei@gmail.com"
+
