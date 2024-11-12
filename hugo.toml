@@ -55,6 +55,14 @@ parent = "accomplishments"
   weight = 300
   identifier = "portfolio"
   url = "/portfolio/"
+
+
+ [[menu.main]]
+  name = "Contact"
+  weight = 600
+  identifier = "contact"
+  url = "/contact/"
+
 # ==========================================
 
 [[params.socialIcons]]
