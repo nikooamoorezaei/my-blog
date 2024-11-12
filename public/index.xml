@@ -6,6 +6,39 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 16:50:23 +0100</lastBuildDate><atom:link href="http://localhost:1313/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Nov 2024 17:29:03 +0100</lastBuildDate><atom:link href="http://localhost:1313/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/my_blog/contact/</link>
+      <pubDate>Tue, 12 Nov 2024 17:29:03 +0100</pubDate>
+      
+      <guid>http://localhost:1313/my_blog/contact/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/my_blog/post/first/</link>
+      <pubDate>Tue, 12 Nov 2024 17:26:31 +0100</pubDate>
+      
+      <guid>http://localhost:1313/my_blog/post/first/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/my_blog/about/</link>
+      <pubDate>Tue, 12 Nov 2024 17:01:10 +0100</pubDate>
+      
+      <guid>http://localhost:1313/my_blog/about/</guid>
+      
+        <description>&lt;p&gt;As an architectural intern at Michele Tonci Ottieri &amp;amp; Associati (MTOA), I contributed to the design and development of various projects, ranging from residential to commercial buildings, applying my knowledge and skills in landscape architecture, renewable energy, and green building. I graduated with a Master of Architecture degree from Sapienza Università di Roma, where I focused on the integration of natural and artificial elements in urban and rural contexts. I also hold two certifications in renewable energy and green building entrepreneurship and construction project management from Duke University and Columbia University, respectively. Before joining MTOA, I worked as an interior designer at Acado Design, where l designed and implemented innovative and functional solutions for various clients, and as an AutoCAD operator at Zhiyar Beton Company, where I prepared and revised architectural drawings and documents. With more than three years of work experience in the architecture and design industry, I have developed strong competencies in project management, projectt, construction management, AutoCAD, SketchUp, and Revit. I am passionate about creating sustainable and resilient environments that enhance the quality of life and well-being of people and communities.&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
