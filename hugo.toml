@@ -1,48 +1,49 @@
 baseURL = 'https://nikooamoorezaei.github.io/my_blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "anatole"
-
-
-
+theme = "anatole-custom"
 
 [params]
-title = "  nikoo Amoorezaei"
+title = "nikoo Amoorezaei"
 author = "nikoo Amoorezaei"
-description = "I'm an architect and a developer. I'm interested in the intersection of architecture and technology."
+description = """
+        I'm an architect and a developer.
+        I'm interested in the intersection of architecture and technology.
+        """
 profilePicture = "images/profile.jpg"
 
- [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+[[menu.main]]
+name = "About"
+weight = 300
+identifier = "about"
+url = "/about/"
 
 [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
 
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+[[menu.main]]
+name = "Posts"
+weight = 200
+identifier = "posts"
+url = "/post/"
 
-[[main]]
+[[menu.main]]
 name = "Accomplishments"
 weight = 500
 identifier = "accomplishments"
+url = "/accomplishments/"
 
-[[main]]
+[[menu.main]]
 name = "Awards"
 weight = 510
 identifier = "awards"
 url = "/awards/"
 parent = "accomplishments"
 
-[[main]]
+[[menu.main]]
 name = "Certifications"
 weight = 520
 identifier = "certifications"
@@ -65,4 +66,3 @@ url = "https://github.com/nikooamoorezaei"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:nikooamoorezaei@gmail.com"
-
