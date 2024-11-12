@@ -50,6 +50,11 @@ identifier = "certifications"
 url = "/certifications/"
 parent = "accomplishments"
 
+[[menu.main]]
+  name = "Portfolio"
+  weight = 300
+  identifier = "portfolio"
+  url = "/portfolio/"
 # ==========================================
 
 [[params.socialIcons]]
