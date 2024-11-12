@@ -1,6 +1,6 @@
 baseURL = 'https://nikooamoorezaei.github.io/my_blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Personal Blog'
 theme = "anatole-custom"
 
 [params]
